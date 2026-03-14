@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hello! I'm Atharva Laud, an Engineer passionate about building intelligent systems that solve real-world problems. With a background in AI and a specialization in Data Analytics, I've evolved from analyzing complex datasets to architecting full-stack AI applications and researching cutting-edge machine learning techniques.
+👋 Hello! I'm Atharva Laud, an engineer passionate about building intelligent systems that solve real-world problems. With a background in AI and a specialization in Data Analytics, I've evolved from analyzing complex datasets to architecting full-stack AI applications and researching cutting-edge machine learning techniques.
 🔍 I'm currently focused on the intersection of **generative AI, adversarial machine learning, and production-ready AI systems**. My recent work spans:
 - **Orqa**: An AI-powered educational platform using RAG and agentic workflows to reduce educator workload by 60%
 - **Adversarial Diffusion**: Novel defense frameworks using DDPMs to harden fraud detection systems against evasion attacks
