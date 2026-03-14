@@ -1,10 +1,11 @@
 ## Hi there 👋
-👋 Hello! I'm Atharva Laud, an aspiring data scientist with a passion for transforming data into actionable insights. With a background in Chemical Engineering and a specialization in Data Analytics, I've spent my academic and professional career unraveling complex data puzzles to drive smarter decisions and innovations.
-
-🔍 I'm particularly fascinated by the intersection of machine learning and real-world applications, such as autonomous farming and healthcare analytics. My recent projects have focused on utilizing machine learning models to optimize emergency department operations and exploring AI-driven solutions to improve fraud detection.
-
-💻 Proficient in a variety of programming languages and tools like Python, R, MATLAB, SQL, and Tableau, I love diving deep into datasets and crafting algorithms that can predict, classify, and discover hidden patterns. My GitHub is a showcase of my journey, featuring projects that reflect my curiosity and dedication to learning.
-
-🌱 I'm continually exploring new technologies and methodologies to enhance my data science skills, eager to contribute to innovative projects that make a difference. When I'm not coding, you might find me hiking through Vancouver's beautiful trails or experimenting with new recipes in the kitchen.
-
-🤝 Let's connect! I'm always open to collaboration and learning from fellow data enthusiasts. Feel free to explore my projects and reach out if you'd like to chat about data, tech, or any exciting ideas!
+👋 Hello! I'm Atharva Laud, an Engineer passionate about building intelligent systems that solve real-world problems. With a background in AI and a specialization in Data Analytics, I've evolved from analyzing complex datasets to architecting full-stack AI applications and researching cutting-edge machine learning techniques.
+🔍 I'm currently focused on the intersection of **generative AI, adversarial machine learning, and production-ready AI systems**. My recent work spans:
+- **Orqa**: An AI-powered educational platform using RAG and agentic workflows to reduce educator workload by 60%
+- **Adversarial Diffusion**: Novel defense frameworks using DDPMs to harden fraud detection systems against evasion attacks
+- **Quantitative Trading**: Multi-modal ensemble models combining FinBERT sentiment analysis with macroeconomic indicators for S&P 500 prediction
+- **Molecular Dynamics**: GPU-accelerated protein simulation using NVIDIA Warp for structural biology research
+💻 I work across the full AI stack—from training diffusion models and implementing adversarial attacks to building production web applications. My toolkit includes **Python, PyTorch, TensorFlow, React, TypeScript, MongoDB, Docker**, and modern ML libraries. I love diving deep into transformer architectures, generative models, and GPU-accelerated computing.
+🌱 I'm currently exploring **agentic AI systems, multimodal learning, and the robustness of financial ML models**. When I'm not training models or optimizing CUDA kernels, you might find me hiking through Vancouver's trails or experimenting with new recipes.
+🤝 Let's connect! I'm always open to collaboration on interesting AI/ML projects, research opportunities, or just chatting about the latest in generative AI. Feel free to explore my repositories and reach out!
+📍 Based in Canada | Open to relocation
