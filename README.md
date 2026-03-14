@@ -5,7 +5,11 @@
 - **Adversarial Diffusion**: Novel defense frameworks using DDPMs to harden fraud detection systems against evasion attacks
 - **Quantitative Trading**: Multi-modal ensemble models combining FinBERT sentiment analysis with macroeconomic indicators for S&P 500 prediction
 - **Molecular Dynamics**: GPU-accelerated protein simulation using NVIDIA Warp for structural biology research
+  
 💻 I work across the full AI stack—from training diffusion models and implementing adversarial attacks to building production web applications. My toolkit includes **Python, PyTorch, TensorFlow, React, TypeScript, MongoDB, Docker**, and modern ML libraries. I love diving deep into transformer architectures, generative models, and GPU-accelerated computing.
+
 🌱 I'm currently exploring **agentic AI systems, multimodal learning, and the robustness of financial ML models**. When I'm not training models or optimizing CUDA kernels, you might find me hiking through Vancouver's trails or experimenting with new recipes.
+
 🤝 Let's connect! I'm always open to collaboration on interesting AI/ML projects, research opportunities, or just chatting about the latest in generative AI. Feel free to explore my repositories and reach out!
+
 📍 Based in Canada | Open to relocation
